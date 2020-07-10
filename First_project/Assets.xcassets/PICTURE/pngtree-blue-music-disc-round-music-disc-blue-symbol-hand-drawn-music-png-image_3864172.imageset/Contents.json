@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pngtree-blue-music-disc-round-music-disc-blue-symbol-hand-drawn-music-png-image_3864172.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
